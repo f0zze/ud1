@@ -1,5 +1,10 @@
 **Movie Trailer Website**
 
+**_Description_**
+
+A simple program which ,generates one single HTML page by passing array of
+Movie.class instances
+
 _How to run project?_
 
 1. Install python
