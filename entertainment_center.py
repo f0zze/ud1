@@ -15,5 +15,6 @@ movies = [
           'https://goo.gl/VtYzRl')
 ]
 
-# generates HTML page movies_web.html by movies array and opens web browser
+# Uses list of movie instances as input to generate an HTML file
+# and open it in the browser.
 open_movies_page(movies)
